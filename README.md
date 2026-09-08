@@ -31,7 +31,8 @@ NameProject/
 🚀 Quick Start
 1. Clone the Repository
 git clone  https://github.com/VenkatPraveenAmbati/python-name-project.git
-cd NameProject
+
+
 
 2. Create a Virtual Environment
 Creating a virtual environment is optional for this project, but recommended.
