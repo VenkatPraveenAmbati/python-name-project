@@ -62,6 +62,7 @@ python nameproject.py
 🖥️ Execution Screenshot
 Here's an example of the program running in the terminal:
 ![Name Project Execution Screenshot](ss.png)
+
 📸 Example Output
 Welcome to Python program!
 Today's Date and Time
